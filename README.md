@@ -14,7 +14,7 @@ Chào mừng đến với dự án **StudentMVC** - Hệ thống quản lý sinh
 * **Thông tin Chi tiết:** Xem hồ sơ đầy đủ của sinh viên bao gồm lớp học, khoa và kết quả học tập.
 * **Liên hệ & Hỗ trợ:** Sinh viên có thể gửi phản hồi hoặc yêu cầu hỗ trợ đến quản trị viên.
 
-## 2. Trang Quản trị & Nhân viên (Backend)
+## 2. Trang Quản trị & Sinh viên (Backend)
 
 * **Bảng điều khiển (Dashboard):** Thống kê tổng số sinh viên, lớp học, khoa đào tạo và kết quả học tập.
 * **Quản lý Sinh viên (Students):**
